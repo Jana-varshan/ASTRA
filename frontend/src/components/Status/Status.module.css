@@ -1,0 +1,29 @@
+.status{
+
+    position:absolute;
+
+    top:62%;
+
+    text-align:center;
+
+    color:#EAFDFF;
+
+}
+
+.status h2{
+
+    font-size:28px;
+
+    letter-spacing:6px;
+
+    color:#00E5FF;
+
+}
+
+.status p{
+
+    margin-top:8px;
+
+    opacity:.7;
+
+}
